@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Hardware Resources Required}{}% 2
+\BOOKMARK [1][-]{section.3}{Software Resources Required}{}% 3
+\BOOKMARK [1][-]{section.4}{Dataset}{}% 4
+\BOOKMARK [1][-]{section.5}{Methodology}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Data Preprocessing}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Building Model}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{Support Vector Machine}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.4}{Model Training}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Results}{}% 10
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 11
